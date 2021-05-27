@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "code-runner": "^1.0.7",
+    "python": "^0.0.4"
+  }
+}
